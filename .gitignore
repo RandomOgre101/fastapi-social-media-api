@@ -4,4 +4,4 @@ venv/
 
 .env
 
-__.vscode__
+.vscode/
